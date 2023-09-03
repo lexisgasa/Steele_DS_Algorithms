@@ -26,3 +26,5 @@ let time2_2 = performance.now();
 console.log(`Time Elapsed: ${(time2_2 - time1_2) / 1000} seconds.`)
 
 // el problema con mirar el tiempo es que en cada pc se obtendran valores totalmente diferentes, y que de hecho en el mismo pc se VAN a obtener resultados diferentes
+
+// en vez de contar los segundos que tarda en ejecutarse, sale mas a cuenta contar el numero de operaciones simples que el ordenador tiene que hacer
